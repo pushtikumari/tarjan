@@ -1,7 +1,4 @@
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/looplab/tarjan)](https://pkg.go.dev/github.com/looplab/tarjan)
-![Bulid Status](https://github.com/looplab/tarjan/actions/workflows/main.yml/badge.svg)
-[![Coverage Status](https://img.shields.io/coveralls/looplab/tarjan.svg)](https://coveralls.io/r/looplab/tarjan)
-[![Go Report Card](https://goreportcard.com/badge/looplab/tarjan)](https://goreportcard.com/report/looplab/tarjan)
+
 
 # Tarjan
 
@@ -38,9 +35,3 @@ fmt.Println(output)
 // Output:
 // [[3 2 1] [7 6] [5 4] [8]]
 ```
-
-# License
-
-Tarjan is licensed under Apache License 2.0
-
-http://www.apache.org/licenses/LICENSE-2.0
